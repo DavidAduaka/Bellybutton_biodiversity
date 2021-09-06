@@ -81,7 +81,7 @@ function buildCharts(sample) {
       y: yticks,
       text: otu_labels,
       type: "bar", 
-      orientation: horizontal
+      orientation: "h"
     }];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
