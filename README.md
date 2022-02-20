@@ -8,6 +8,6 @@ In the challenge, I create a drop-down menu that provides interactivity. When a 
 
 For modifications, I included
 
-A background picture for the jumbotron,
-A background color for the page and font, and
-A paragraph explaining the project.
+  1. A background picture for the jumbotron,
+  2. A background color for the page and font, and
+  3. A paragraph explaining the project.
